@@ -1,1 +1,3 @@
 *.class
+senhas.txt
+.gitignore
